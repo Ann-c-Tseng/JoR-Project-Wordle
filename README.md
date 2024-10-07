@@ -2,6 +2,8 @@
 
 ## Joy of React, Project I
 
+### To run this project in the browser: git clone the repository, then run the commands in the terminal 'npm install' and 'npm run dev'
+
 In this project, we'll recreate a popular online word game, Wordle:
 
 ![Demo showing the finished product, our Wordle clone](docs/wordle-demo.gif)
